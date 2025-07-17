@@ -39,6 +39,7 @@ const Resume: React.FC = () => {
               <span className="min-[500px]:flex-shrink-0">sallydoh@gmail.com</span>
               <span className="min-[500px]:flex-shrink-0">(403) 510 - 2393</span><br/>
               <span className="min-[500px]:flex-shrink-0">calgary, ab</span> 
+              <span className="min-[500px]:flex-shrink-0">sallydo.com</span> 
               <span className="min-[500px]:flex-shrink-0">github.com/sallydough</span>
               <span className="min-[500px]:flex-shrink-0">linkedin.com/in/sallydough</span>
             </div>
